@@ -72,6 +72,14 @@ h3 {
 p {
   line-height: 1.5;
 }
+
+a {
+  color: var(--light-dark-blue);
+}
+a:hover {
+  color: var(--marina);
+}
+
 /* svg styling  */
 .icons {
   list-style: none;
